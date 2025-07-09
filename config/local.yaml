@@ -1,0 +1,7 @@
+env: "DEV"
+database:
+  host: "localhost"
+  port: 543
+http-server:
+  host: ""
+  port: 8080
